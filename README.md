@@ -3,8 +3,8 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>    
    </a>
-   <a href="https://twitter.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <a href="https://mayank-nainwal.github.io/Mayank-Nainwal-Portfolio.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=link&logoColor=white" alt="Twitter Badge"/>
    </a>
  </div>
 
