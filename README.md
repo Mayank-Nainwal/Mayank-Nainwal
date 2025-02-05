@@ -1,5 +1,5 @@
 <div align="left"> 
-   <a href="https://www.linkedin.com/in/anurag-srivastava007/" target="_blank">
+   <a href="https://www.linkedin.com/in/mayank-nainwal-713241224/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>    
    </a>
@@ -10,13 +10,13 @@
 
  
 ### Hi there 👋
-I’m a Computer Science & Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including Web Development,Python ,Django , Data Science and Machine Learning.
+I’m a Computer Science graduate of 2024 batch from NIT Raipur. I come with an extensive experience of working with different technologies including Web Development,Python ,Django , Java, React, Celery(open source schedular), Android Management API, Apple IOS management API and Competitive Programming.
 
 ### Things I'm good at 🔥
-Languages: Python, JavaScript,Perl
+Languages: Python, JavaScript, Java
 Programming skills : Datastructure and Algorithm, Regular expression. 
-Database : mysql, mongodb.  
-Libraries & Framework: Django, Node.js,React js, GraphQL, SQL, HTML, CSS, Bootstrap, tailwind.
+Database : mysql.  
+Libraries & Framework: Django, React js, FastAPI, SQL, HTML, CSS, Bootstrap, tailwind.
 
 <div align="left">
  
@@ -29,7 +29,7 @@ Libraries & Framework: Django, Node.js,React js, GraphQL, SQL, HTML, CSS, Bootst
 - #### 🌱 I’m currently exploring **Machine Learning**.
 - #### 👯 I’m looking to collaborate on *Open Source Projects*
 - #### 💬 I am fast to respond and would love to grow my network.
-- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-srivastava007/)
+- #### 📫 How to reach me: You can DM me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-nainwal-713241224/)
 - #### 🏢 *Open to opportunities*
 - #### 😄 Pronouns: He/Him
 - #### ⚡ Favorite Anime: Death notes,
