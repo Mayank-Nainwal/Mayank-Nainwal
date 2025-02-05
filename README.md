@@ -80,23 +80,3 @@ Libraries & Framework: Django, React js, FastAPI, SQL, HTML, CSS, Bootstrap, tai
  
 </div>
 </div>
-
-
-
-<!--
-<table align="center" >
- <tr  >
-  <td colspan="2" align="center" > 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshpython123&" alt="Ashutoshpython123" /> </td>
- </tr>
-  <tr>
-    <td>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashutoshpython123&show_icons=true&locale=en&layout=compact" alt="Ashutoshpython123" />
-    </td>
-    <td>
-     <img  src="https://github-readme-stats.vercel.app/api?username=Ashutoshpython123&show_icons=true&locale=en" alt="Ashutoshpython123" />
-    </td>
-  </tr>
-</table>-->
-
-<!--START_SECTION:activity-->
